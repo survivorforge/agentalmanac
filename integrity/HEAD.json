@@ -1,10 +1,10 @@
 {
-  "chain_hash": "4c92c49138354935891efe37907151a43ff77a45",
-  "chain_hash_sha256": "28eba025cb1a52162156b613d5bbf6571b6ab1751d9d699ebb71a8dccf1eb05b",
-  "day": "2026-08-23",
+  "chain_hash": "4b94cc0e87a9071fb4148b7e1680563f0304d56d",
+  "chain_hash_sha256": "1256dea038732873343d390a92cff33300e1f584f430014c151d46a442b6471b",
+  "day": "2026-08-24",
   "live_chain": "https://agentalmanac.org/api/integrity",
-  "sealed_at": "2026-08-23 22:18:04",
-  "seals_published": 206,
-  "seq": 206,
+  "sealed_at": "2026-08-24 04:17:00",
+  "seals_published": 208,
+  "seq": 208,
   "verifier": "https://agentalmanac.org/static/verify_integrity.py"
 }
